@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62529AAB-5723-43C3-9995-1AD9B3968025}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DavideTrotta.Wcf.Handlers</RootNamespace>
+    <AssemblyName>DavideTrotta.Wcf.Handlers</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac, Version=3.5.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.3.5.2\lib\net40\Autofac.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bus.cs" />
+    <Compile Include="Handlers\AddUserHandler.cs" />
+    <Compile Include="Handlers\CacheQueryDecorator.cs" />
+    <Compile Include="Handlers\GetContactByIdHandler.cs" />
+    <Compile Include="Handlers\GetUserHandler.cs" />
+    <Compile Include="Handlers\UpdateUserHandler.cs" />
+    <Compile Include="ICommandHandler.cs" />
+    <Compile Include="Infrastructure\HandlerModule.cs" />
+    <Compile Include="Infrastructure\ICacheProvider.cs" />
+    <Compile Include="IQueryHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DavideTrotta.Wcf.Common\DavideTrotta.Wcf.Common.csproj">
+      <Project>{f181ea53-ccc8-4d13-8de4-d101a43b60a5}</Project>
+      <Name>DavideTrotta.Wcf.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DavideTrotta.Wcf.Contract\DavideTrotta.Wcf.Contract.csproj">
+      <Project>{2682fa67-65e4-41cb-b04c-79f4a2f08740}</Project>
+      <Name>DavideTrotta.Wcf.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DavideTrotta.Wcf.DataProvider\DavideTrotta.Wcf.DataProvider.csproj">
+      <Project>{b1f75b53-dd7c-4c0b-88cf-0f02694be8ff}</Project>
+      <Name>DavideTrotta.Wcf.DataProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

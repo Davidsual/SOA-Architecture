@@ -1,0 +1,13 @@
+D:\SSO\TestWcf\DavideTrotta.Wcf\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\TestWcf\DavideTrotta.Wcf\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+D:\SSO\TestWcf\DavideTrotta.Wcf\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\TestWcf\DavideTrotta.Wcf\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\HaloArchitecture\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.dll
+C:\Users\Davide\Documents\GitHub\HaloArchitecture\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\HaloArchitecture\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.dll
+C:\Users\Davide\Documents\GitHub\HaloArchitecture\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\HaloArchitecture\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.csprojResolveAssemblyReference.cache
+D:\SSO\WCF\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\WCF\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+D:\SSO\WCF\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\WCF\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.pdb
