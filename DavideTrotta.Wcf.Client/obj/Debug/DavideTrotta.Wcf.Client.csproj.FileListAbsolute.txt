@@ -31,3 +31,14 @@ D:\SSO\WCF\DavideTrotta.Wcf.Client\bin\Debug\Autofac.Integration.Wcf.xml
 D:\SSO\WCF\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.csprojResolveAssemblyReference.cache
 D:\SSO\WCF\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.exe
 D:\SSO\WCF\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\DavideTrotta.Wcf.Client.exe.config
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\DavideTrotta.Wcf.Client.exe
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\DavideTrotta.Wcf.Client.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\Autofac.dll
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\Autofac.Integration.Wcf.dll
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\Autofac.xml
+D:\SSO\SOA\DavideTrotta.Wcf.Client\bin\Debug\Autofac.Integration.Wcf.xml
+D:\SSO\SOA\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.csprojResolveAssemblyReference.cache
+D:\SSO\SOA\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.exe
+D:\SSO\SOA\DavideTrotta.Wcf.Client\obj\Debug\DavideTrotta.Wcf.Client.pdb

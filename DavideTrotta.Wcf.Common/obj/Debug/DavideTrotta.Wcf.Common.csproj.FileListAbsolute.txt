@@ -7,3 +7,8 @@ D:\SSO\WCF\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.dll
 D:\SSO\WCF\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.pdb
 D:\SSO\WCF\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.dll
 D:\SSO\WCF\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.dll
+D:\SSO\SOA\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.csprojResolveAssemblyReference.cache
+D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.dll
+D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.pdb

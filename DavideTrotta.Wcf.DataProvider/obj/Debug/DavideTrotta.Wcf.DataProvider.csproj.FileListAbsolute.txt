@@ -26,3 +26,17 @@ D:\SSO\WCF\DavideTrotta.Wcf.DataProvider\bin\Debug\Dapper.xml
 D:\SSO\WCF\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.csprojResolveAssemblyReference.cache
 D:\SSO\WCF\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.dll
 D:\SSO\WCF\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.DataProvider.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.DataProvider.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\Autofac.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\Dapper.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.Common.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.Contract.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.Common.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\Autofac.xml
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\Dapper.pdb
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\bin\Debug\Dapper.xml
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.csprojResolveAssemblyReference.cache
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.dll
+D:\SSO\SOA\DavideTrotta.Wcf.DataProvider\obj\Debug\DavideTrotta.Wcf.DataProvider.pdb
