@@ -55,3 +55,19 @@ D:\SSO\SOA\DavideTrotta.Wcf.Handlers\bin\Debug\Dapper.xml
 D:\SSO\SOA\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.csprojResolveAssemblyReference.cache
 D:\SSO\SOA\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.dll
 D:\SSO\SOA\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Handlers.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Handlers.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\Autofac.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Common.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Contract.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.DataProvider.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\Dapper.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Common.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\DavideTrotta.Wcf.DataProvider.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\Autofac.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\Dapper.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\bin\Debug\Dapper.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Handlers\obj\Debug\DavideTrotta.Wcf.Handlers.pdb

@@ -46,17 +46,6 @@
     <Compile Include="Exceptions\ValidationException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Test\TestEight.7z" />
-    <None Include="Test\TestFour.7z" />
-    <None Include="Test\TestOne.7z" />
-    <None Include="Test\TestTwo.7z" />
-    <None Include="Test\TestUserFive.7z" />
-    <None Include="Test\TestUSerNine.7z" />
-    <None Include="Test\TestUserSeven.7z" />
-    <None Include="Test\TestUserSix.7z" />
-    <None Include="Test\TestUserThree.7z" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
