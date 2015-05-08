@@ -12,3 +12,8 @@ D:\SSO\SOA\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.pdb
 D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.csprojResolveAssemblyReference.cache
 D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.dll
 D:\SSO\SOA\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Common\bin\Debug\DavideTrotta.Wcf.Common.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Common\obj\Debug\DavideTrotta.Wcf.Common.pdb

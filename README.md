@@ -5,7 +5,7 @@ WCF TCP layer with IServiceBehaviour for custom exception and for validation wit
 
 Command Query handler... 
 Bus for redirect to Command Handler and Query Handler.
-QueryHandler could implement ICachedQueryHandler... a decorator class CacheDecorator intercepted by Autofac can cache the Query result.
+QueryHandler could implement ICachedQueryHandler... a decorator class QueryCacheDecorator intercepted by Autofac can cache the Query result.
 
 Data Access Layer with Dapper
 
