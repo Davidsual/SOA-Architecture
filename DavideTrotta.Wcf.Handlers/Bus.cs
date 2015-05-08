@@ -1,14 +1,12 @@
-﻿using System;
+﻿using Autofac;
+using DavideTrotta.Wcf.Common.Exceptions;
+using DavideTrotta.Wcf.Contract.Command;
+using DavideTrotta.Wcf.Contract.Query;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Autofac;
-using DavideTrotta.Wcf.Common.Exceptions;
-using DavideTrotta.Wcf.Contract.Command;
-using DavideTrotta.Wcf.Contract.Query;
 
 namespace DavideTrotta.Wcf.Handlers
 {
@@ -18,8 +16,6 @@ namespace DavideTrotta.Wcf.Handlers
         void Execute<TCommand>(TCommand command) where TCommand : Command;
         TResult Dispatch<TParameter, TResult>(TParameter query) where TParameter : Query<TResult>;
     }
-
-
 
     public class Bus : IBus
     {

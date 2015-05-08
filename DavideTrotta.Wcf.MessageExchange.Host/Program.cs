@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Autofac;
+﻿using Autofac;
 using Autofac.Extras.NLog;
 using Autofac.Features.Variance;
 using DavideTrotta.Wcf.Contract;
 using DavideTrotta.Wcf.DataProvider.Infrastructure;
 using DavideTrotta.Wcf.Handlers.Infrastructure;
 using DavideTrotta.Wcf.MessageExchange.Host.Implementation;
+using System;
 using Topshelf;
 
 namespace DavideTrotta.Wcf.MessageExchange.Host
@@ -40,9 +36,9 @@ namespace DavideTrotta.Wcf.MessageExchange.Host
                     s.WhenStarted(service => service.Start(container));
                     s.WhenStopped(service => service.Stop(container));                    
                 });
-                c.SetDescription("Handles DataCash card payments");
-                c.SetDisplayName("Moneycorp Kerching Payment Service");
-                c.SetServiceName("MoneycorpKerchingService");
+                c.SetDescription("Handles test");
+                c.SetDisplayName("Davide Trotta Service");
+                c.SetServiceName("DavideTrottaService");
 
                 c.EnableServiceRecovery(a => a.RestartService(1));
 
