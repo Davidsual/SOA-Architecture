@@ -96,8 +96,6 @@ D:\SSO\SOA\DavideTrotta.Wcf.Host\bin\Debug\Dapper.xml
 D:\SSO\SOA\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Common.pdb
 D:\SSO\SOA\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.csprojResolveAssemblyReference.cache
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Host.exe.config
-C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.exe
-C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Host.exe
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Host.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Autofac.dll
@@ -106,7 +104,14 @@ C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debu
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.DataProvider.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Handlers.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Service.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\NLog.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Owin.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Topshelf.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Topshelf.NLog.dll
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Dapper.dll
@@ -116,8 +121,16 @@ C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debu
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Handlers.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Service.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Autofac.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\NLog.xml
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Dapper.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\Dapper.xml
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\bin\Debug\DavideTrotta.Wcf.Common.pdb
 C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.csprojResolveAssemblyReference.cache
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.exe
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Host\obj\Debug\DavideTrotta.Wcf.Host.pdb

@@ -1,4 +1,5 @@
 ﻿using System.ServiceModel;
+using System.Threading.Tasks;
 using System.Transactions;
 using Autofac;
 using Autofac.Extras.NLog;

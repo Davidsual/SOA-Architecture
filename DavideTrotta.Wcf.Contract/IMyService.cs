@@ -1,4 +1,5 @@
-﻿using DavideTrotta.Wcf.Contract.Command;
+﻿using System.Threading.Tasks;
+using DavideTrotta.Wcf.Contract.Command;
 using DavideTrotta.Wcf.Contract.Entities;
 using DavideTrotta.Wcf.Contract.Exception;
 using System.ServiceModel;
@@ -10,7 +11,7 @@ namespace DavideTrotta.Wcf.Contract
     public interface IMyService
     {
 
-        [OperationContract]
+        [OperationContract(IsOneWay = true)]
         [FaultContract(typeof(ValidationFault))]
         [FaultContract(typeof(SimpleErrorFault))]
         void ExecuteCommand(Command.Command command);

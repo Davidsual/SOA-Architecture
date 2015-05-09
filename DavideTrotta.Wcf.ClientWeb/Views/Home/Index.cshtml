@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    @section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.0.js"></script>
+    <script src="http://localhost:63891/signalr/hubs" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            var myChatHub = $.connection.MyTesttHub;
+            myChatHub.client.newMessageReceived = function (message) {
+                $('#ulChatMessages').append('<li>' + message + '</li>');
+            }
+            $.connection.hub.url = "http://localhost:63891/signalr";
+            $.connection.hub.start().done(function () {
+                myChatHub.server.hello();
+
+                myChatHub.client.broadcastMessageToAll = function (message) {
+                    alert('Hello ' + message);
+                };
+
+                $('#btnSubmit').click(function (e) {
+                    myChatHub.server.broadcastMessageToAll('asdsad');
+
+                });
+            }).fail(function (error) {
+                alert(error);
+            });;
+
+        });
+    </script>
+
+    }
+
+</head>
+<body>
+    <div>
+        <label id="lblEnterMessage">Enter Message: </label>
+        <input type="text" id="txtEnterMessage" />
+        <input type="submit" id="btnSubmit" value="Send Message" />
+        <ul id="ulChatMessages"></ul>
+    </div>
+</body>
+</html>

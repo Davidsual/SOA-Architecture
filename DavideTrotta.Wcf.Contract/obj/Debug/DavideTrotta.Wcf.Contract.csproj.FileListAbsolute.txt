@@ -16,3 +16,7 @@ D:\SSO\SOA\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.pdb
 D:\SSO\SOA\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.csprojResolveAssemblyReference.cache
 D:\SSO\SOA\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.dll
 D:\SSO\SOA\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Contract\bin\Debug\DavideTrotta.Wcf.Contract.pdb
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.dll
+C:\Users\Davide\Documents\GitHub\SOA Architecture\DavideTrotta.Wcf.Contract\obj\Debug\DavideTrotta.Wcf.Contract.pdb

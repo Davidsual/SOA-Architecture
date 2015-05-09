@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavideTrotta.Wcf.DataProvid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavideTrotta.Wcf.MessageExchange.Host", "DavideTrotta.Wcf.MessageExchange.Host\DavideTrotta.Wcf.MessageExchange.Host.csproj", "{6A5043D8-158D-43A9-A292-C160F753C83F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavideTrotta.Wcf.ClientWeb", "DavideTrotta.Wcf.ClientWeb\DavideTrotta.Wcf.ClientWeb.csproj", "{F9A27A90-EF1B-4D0A-BA9A-A6D353EB5FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6A5043D8-158D-43A9-A292-C160F753C83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A5043D8-158D-43A9-A292-C160F753C83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A5043D8-158D-43A9-A292-C160F753C83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A27A90-EF1B-4D0A-BA9A-A6D353EB5FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A27A90-EF1B-4D0A-BA9A-A6D353EB5FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A27A90-EF1B-4D0A-BA9A-A6D353EB5FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A27A90-EF1B-4D0A-BA9A-A6D353EB5FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
