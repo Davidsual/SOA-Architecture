@@ -22,7 +22,7 @@ namespace DavideTrotta.Wcf.Client
                 hubProxy = hubConnection.CreateHubProxy("MyTesttHub");
                 hubProxy.On<string>("newMessageReceived", (message) => Console.WriteLine(message));
                 hubConnection.Start().Wait();
-                hubProxy.Invoke("BroadcastMessageToAll", "test").Wait();
+                hubProxy.Invoke("BroadcastMessageToAll", "test message from console app").Wait();
                 Console.WriteLine("Connected");
             }
             catch (Exception)

@@ -21,7 +21,7 @@
                 };
 
                 $('#btnSubmit').click(function (e) {
-                    myChatHub.server.broadcastMessageToAll('asdsad');
+                    myChatHub.server.broadcastMessageToAll($('#txtEnterMessage').val());
 
                 });
             }).fail(function (error) {

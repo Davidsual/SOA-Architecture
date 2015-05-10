@@ -12,7 +12,7 @@ namespace DavideTrotta.Wcf.ClientWeb
         {
             
             ConfigureAuth(app);
-            app.UseCors(CorsOptions.AllowAll);
+            //app.UseCors(CorsOptions.AllowAll);
             app.MapSignalR();
         }
     }
